@@ -1,0 +1,6 @@
+pymem
+psutil 
+keyboard 
+requests
+PyQt5
+auto-py-to-exe

@@ -1,0 +1,15 @@
+/Main program(scripts)/__pycache__
+/Not needed but if you want to modify source code you will need to copy inside of the folder to the main folder/__pycache__
+*__pycache__*
+*pycache*
+__pycache__
+pycache
+/build
+/dist
+build
+dist
+*build*
+*dist*
+*.spec
+*.lnk
+anims changer.zip
