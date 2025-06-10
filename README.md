@@ -1,5 +1,8 @@
 # Is this detected?
-I think <mark>yes🙁</mark>
+Driveless version: detected
+With driver version: undetected
+Detected means that anticheat will ban you
+Undetected means that anticheat will not detect this cheat, so it will not ban you
 # How frequetly it updated?
 In my plans <mark>its updating by itself</mark> because it fetches offsets from some api that works.
 # WTF is this?
@@ -21,6 +24,5 @@ This is just animation changer that <mark>you can run everywhere</mark>
 6. Now it has addresses for needed stuff
 # Preview:
 ![Preview of this roblox external](preview.png)
-~~Un~~detected
 ***
 <sub>[Quazonish](https://github.com/Quazonish/)</sub>
