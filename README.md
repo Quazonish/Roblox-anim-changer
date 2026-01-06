@@ -1,8 +1,9 @@
+# EDUCATIONAL PURPOSES ONLY!!!
+***
 # Is this detected?
-Driveless version: detected
-With driver version: undetected
-Detected means that anticheat will ban you
-Undetected means that anticheat will not detect this cheat, so it will not ban you
+Driveless version: yep
+<mark>With driver(kernel) version: nope</mark>
+
 # How frequetly it updated?
 In my plans <mark>its updating by itself</mark> because it fetches offsets from some api that works.
 # WTF is this?
@@ -22,7 +23,8 @@ This is just animation changer that <mark>you can run everywhere</mark>
 4. From workspace it gets camera
 5. From camera it gets humanoid
 6. Now it has addresses for needed stuff
-# Preview:
-![Preview of this roblox external](preview.png)
+# Driver credits:
+Kdmapper: https://github.com/Quazonish/kdmapper
+Driver: https://github.com/Quazonish/payson-ioctl-cheat-driver
 ***
 <sub>[Quazonish](https://github.com/Quazonish/)</sub>
