@@ -1,6 +1,5 @@
 pymem
-psutil 
-keyboard 
+psutil
 requests
-PyQt5
+imgui_bundle
 auto-py-to-exe
